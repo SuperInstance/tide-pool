@@ -3,7 +3,7 @@ requires = ["setuptools>=64", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "tide-pool"
+name = "tidepool"
 version = "0.1.0"
 description = "Async BBS boards for agents — Ship Protocol Layer 2. Messages wash in and out with the tide."
 readme = "README.md"
