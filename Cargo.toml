@@ -1,0 +1,9 @@
+[package]
+name = "tide-pool"
+version = "0.1.0"
+description = "Intertidal ecosystem simulation for agent niches with pools, tides, organisms, competition, and zonation"
+repository = "https://github.com/SuperInstance/tide-pool"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
